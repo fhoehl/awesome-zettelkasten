@@ -5,6 +5,7 @@
 ## Contents
 
 - [Apps](#apps)
+- [Reference managers](#reference-managers)
 
 ### Apps
 
@@ -19,3 +20,8 @@
 - [TiddlyWiki](https://tiddlywiki.com) with extra plugins ([TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html), [TiddlyMap](http://tiddlymap.org))
 - [ZETTLR](https://zettlr.com/#)
 - [ZKN3](http://zettelkasten.danielluedecke.de/en/)
+
+## Reference managers
+
+- [Zotero](https://www.zotero.org/)
+- [Mendeley](https://www.mendeley.com/)
