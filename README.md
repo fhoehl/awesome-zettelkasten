@@ -20,6 +20,7 @@
 - [TiddlyWiki](https://tiddlywiki.com) with extra plugins ([TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html), [TiddlyMap](http://tiddlymap.org))
 - [ZETTLR](https://zettlr.com/#)
 - [ZKN3](http://zettelkasten.danielluedecke.de/en/)
+- [zk](https://github.com/AndrewCopeland/zettelkasten)
 - [The Archive](https://zettelkasten.de/the-archive/)
 
 ### Emacs
