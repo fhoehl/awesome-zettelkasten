@@ -5,6 +5,9 @@
 ## Contents
 
 - [Apps](#apps)
+- [Emacs](#reference-managers)
+- [Analog](#reference-managers)
+- [Outliners](#reference-managers)
 - [Reference managers](#reference-managers)
 
 ### Apps
@@ -17,21 +20,22 @@
 - [Remnote](https://www.remnote.io/homepage)
 - [Roam](https://roamresearch.com)
 - [Supernotes](https://supernotes.app)
+- [The Archive](https://zettelkasten.de/the-archive/)
 - [TiddlyWiki](https://tiddlywiki.com) with extra plugins ([TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html), [TiddlyMap](http://tiddlymap.org))
 - [ZETTLR](https://zettlr.com/#)
 - [ZKN3](http://zettelkasten.danielluedecke.de/en/)
 - [zk](https://github.com/AndrewCopeland/zettelkasten)
-- [The Archive](https://zettelkasten.de/the-archive/)
 
 ### Emacs
 
 - [Zetteldeft](https://www.eliasstorms.net/zetteldeft/)
+- [neuron-mode](https://github.com/felko/neuron-mode)
 - [Org-mode roam](https://org-roam.readthedocs.io/en/master/)
 
 ### Analog
 
-- [Exacompta record cards](https://www.exacompta.com/en/cat/012060/record-cards). High quality paper with many options.
 - [Baronfig record cards](https://www.baronfig.com/products/strategist?subset=workspace%20essentials&variant=1047391371289). The only brand selling dot grid paper cards.
+- [Exacompta record cards](https://www.exacompta.com/en/cat/012060/record-cards). High quality paper with many options.
 
 ## Outliners
 
@@ -40,6 +44,6 @@
 
 ## Reference managers
 
-- [Zotero](https://www.zotero.org/)
-- [Mendeley](https://www.mendeley.com/)
 - [DEVONThink](https://www.devontechnologies.com/apps/devonthink)
+- [Mendeley](https://www.mendeley.com/)
+- [Zotero](https://www.zotero.org/)
