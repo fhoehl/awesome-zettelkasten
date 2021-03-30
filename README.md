@@ -5,9 +5,9 @@
 ## Contents
 
 - [Apps](#apps)
-- [Emacs](#reference-managers)
-- [Analog](#reference-managers)
-- [Outliners](#reference-managers)
+- [Emacs](#emacs)
+- [Analog](#analog)
+- [Outliners](#outliners)
 - [Reference managers](#reference-managers)
 
 ### Apps
