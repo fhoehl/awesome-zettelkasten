@@ -6,6 +6,7 @@
 
 - [Apps](#apps)
 - [Emacs](#emacs)
+- [Vim](#vim)
 - [Analog](#analog)
 - [Outliners](#outliners)
 - [Reference managers](#reference-managers)
@@ -13,7 +14,9 @@
 ### Apps
 
 - [Athens](https://github.com/athensresearch/athens)
+- [Dendron](https://github.com/dendronhq/dendron)
 - [Foam](https://www.producthunt.com/posts/foam)
+- [nb](https://github.com/xwmx/nb)
 - [Neuron](https://neuron.zettel.page/)
 - [Notebag](https://notebag.app/)
 - [Obsidian](https://obsidian.md)
@@ -22,8 +25,8 @@
 - [Supernotes](https://supernotes.app)
 - [The Archive](https://zettelkasten.de/the-archive/)
 - [TiddlyWiki](https://tiddlywiki.com) with extra plugins ([TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html), [TiddlyMap](http://tiddlymap.org))
-- [ZETTLR](https://zettlr.com/#)
-- [ZKN3](http://zettelkasten.danielluedecke.de/en/)
+- [Zettlr](https://zettlr.com/)
+- [Zkn3](http://zettelkasten.danielluedecke.de/en/)
 - [zk](https://github.com/AndrewCopeland/zettelkasten)
 
 ### Emacs
@@ -31,6 +34,9 @@
 - [Zetteldeft](https://www.eliasstorms.net/zetteldeft/)
 - [neuron-mode](https://github.com/felko/neuron-mode)
 - [Org-mode roam](https://org-roam.readthedocs.io/en/master/)
+
+### Vim
+- [vim-zettel](https://github.com/michal-h21/vim-zettel)
 
 ### Analog
 
