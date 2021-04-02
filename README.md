@@ -11,6 +11,7 @@
 - [VSCode](#vscode)
 - [Analog](#analog)
 - [Outliners](#outliners)
+- [Misc](#misc)
 - [Reference managers](#reference-managers)
 
 ### Apps
