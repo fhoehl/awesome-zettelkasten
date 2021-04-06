@@ -17,11 +17,15 @@
 ### Apps
 
 - [Athens](https://github.com/athensresearch/athens)
+- [Bear](https://bear.app)
+- [ConnectedText](http://www.connectedtext.com/)
 - [Dendron](https://github.com/dendronhq/dendron)
+- [DEVONthink](http://www.devontechnologies.com/products/devonthink/)
 - [Foam](https://www.producthunt.com/posts/foam)
 - [nb](https://github.com/xwmx/nb)
 - [Neuron](https://neuron.zettel.page/)
 - [Notebag](https://notebag.app/)
+- [nvALT](http://brettterpstra.com/projects/nvalt/)
 - [Obsidian](https://obsidian.md)
 - [Remnote](https://www.remnote.io/homepage)
 - [Roam](https://roamresearch.com)
@@ -30,19 +34,23 @@
 - [The Archive](https://zettelkasten.de/the-archive/)
 - [TiddlyWiki](https://tiddlywiki.com) with extra plugins ([TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html), [TiddlyMap](http://tiddlymap.org))
 - [Zettlr](https://zettlr.com/)
-- [Zkn3](http://zettelkasten.danielluedecke.de/en/)
 - [zk](https://github.com/AndrewCopeland/zettelkasten)
+- [zknotes](https://github.com/bburdette/zknotes)
+- [Zkn³](http://zettelkasten.danielluedecke.de/en/)
 
 ### Emacs
 
 - [md-roam](https://github.com/nobiot/md-roam)
 - [neuron-mode](https://github.com/felko/neuron-mode)
-- [Org-mode roam](https://org-roam.readthedocs.io/en/master/)
+- [NotDeft](https://github.com/hasu/notdeft)
+- [org-roam](https://www.orgroam.com)
+- [zettel-mode](https://github.com/vifon/zettel-mode)
 - [Zetteldeft](https://www.eliasstorms.net/zetteldeft/)
 
 ### Vim
 
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
+- [Notoire](https://github.com/KevinBockelandt/notoire)
 - [vim-zettel](https://github.com/michal-h21/vim-zettel)
 
 ### SublimeText
@@ -51,7 +59,12 @@
 
 ### VSCode
 
-- [Memo](https://github.com/svsool/vscode-memo)
+- [Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo)
+- [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=maxedmands.vscode-zettel-markdown-notes)
+- [Mzettel](https://marketplace.visualstudio.com/items?itemName=monferrand.mzettel)
+- [Zeta Note](https://marketplace.visualstudio.com/items?itemName=arr.zeta-note)
+- [Zettelkasten](https://marketplace.visualstudio.com/items?itemName=nergal-perm.zettelkasten)
+- [zknotes](https://marketplace.visualstudio.com/items?itemName=sheilacat.zknotes)
 
 ### Analog
 
@@ -66,6 +79,8 @@
 ## Misc
 
 - [notenote.link](https://github.com/Maxence-L/notenote.link). A [Jekyll](https://jekyllrb.com) digital garden template, optimized for integration with [Obsidian](https://obsidian.md).
+- [roam-to-git](https://github.com/MatthieuBizien/roam-to-git). Automatic RoamResearch backup.
+- [slipbox](https://github.com/lggruspe/slipbox). A static site generator for Zettelkasten notes.
 - [vizel](https://github.com/BasilPH/vizel). See the stats and connections of your Zettelkasten.
 
 ## Reference managers
