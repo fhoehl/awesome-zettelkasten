@@ -27,6 +27,7 @@
 - [Notebag](https://notebag.app/)
 - [nvALT](http://brettterpstra.com/projects/nvalt/)
 - [Obsidian](https://obsidian.md)
+- [Reflect](https://reflect.app)
 - [Remnote](https://www.remnote.io/homepage)
 - [Roam](https://roamresearch.com)
 - [Sublimeless_ZK](https://github.com/renerocksai/sublimeless_zk)
