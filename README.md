@@ -76,6 +76,8 @@
 
 - [Dynalist](https://dynalist.io)
 - [WorkFlowy](https://workflowy.com/list-maker/)
+- [OmniOutliner](https://www.omnigroup.com/omnioutliner)
+- [MarginNote](https://www.marginnote.com/)
 
 ## Misc
 
