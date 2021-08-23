@@ -38,6 +38,7 @@
 - [zk](https://github.com/AndrewCopeland/zettelkasten)
 - [zknotes](https://github.com/bburdette/zknotes)
 - [Zkn³](http://zettelkasten.danielluedecke.de/en/)
+- [FSNotes](https://fsnot.es)
 
 ### Emacs
 
@@ -77,7 +78,6 @@
 - [Dynalist](https://dynalist.io)
 - [WorkFlowy](https://workflowy.com/list-maker/)
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner)
-- [MarginNote](https://www.marginnote.com/)
 
 ## Misc
 
@@ -91,3 +91,4 @@
 - [DEVONThink](https://www.devontechnologies.com/apps/devonthink)
 - [Mendeley](https://www.mendeley.com/)
 - [Zotero](https://www.zotero.org/)
+- [MarginNote](https://www.marginnote.com/)
