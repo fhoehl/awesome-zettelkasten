@@ -17,12 +17,16 @@
 ### Apps
 
 - [Athens](https://github.com/athensresearch/athens)
+- [Amplenote](https://www.amplenote.com)
 - [Bear](https://bear.app)
 - [ConnectedText](http://www.connectedtext.com/)
 - [Dendron](https://github.com/dendronhq/dendron)
 - [DEVONthink](http://www.devontechnologies.com/products/devonthink/)
+- [Exegesis](https://exegesis.io)
 - [Foam](https://www.producthunt.com/posts/foam)
+- [Logseq](https://logseq.com)
 - [nb](https://github.com/xwmx/nb)
+- [Napkin](https://www.napkin.one)
 - [Neuron](https://neuron.zettel.page/)
 - [Notebag](https://notebag.app/)
 - [nvALT](http://brettterpstra.com/projects/nvalt/)
