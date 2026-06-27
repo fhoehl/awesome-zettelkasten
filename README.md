@@ -46,6 +46,7 @@
 - [zknotes](https://github.com/bburdette/zknotes)
 - [Zkn³](http://zettelkasten.danielluedecke.de/en/)
 - [FSNotes](https://fsnot.es)
+- [NoteRich](https://noterich.com) - AI-powered notes with RAG search, 41 languages, free tier.
 
 ### Emacs
 
