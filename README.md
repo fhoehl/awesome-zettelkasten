@@ -88,6 +88,7 @@
 
 ## Misc
 
+- [hippocampus](https://github.com/sturlese/hippocampus). A starter [Obsidian](https://obsidian.md) vault maintained by [Claude Code](https://claude.com/claude-code). Inbox notes are consolidated into typed, cross-linked pages with YAML frontmatter, a master index and an append-only log. No vector database or embeddings — retrieval is a three-step read.
 - [notenote.link](https://github.com/Maxence-L/notenote.link). A [Jekyll](https://jekyllrb.com) digital garden template, optimized for integration with [Obsidian](https://obsidian.md).
 - [roam-to-git](https://github.com/MatthieuBizien/roam-to-git). Automatic RoamResearch backup.
 - [slipbox](https://github.com/lggruspe/slipbox). A static site generator for Zettelkasten notes.
