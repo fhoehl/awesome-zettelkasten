@@ -32,6 +32,7 @@
 - [Notebag](https://notebag.app/)
 - [nvALT](http://brettterpstra.com/projects/nvalt/)
 - [Obsidian](https://obsidian.md)
+- [Persona](https://github.com/jayamitkatariya/personacli)
 - [QOwnNotes](https://www.qownnotes.org)
 - [Reflect](https://reflect.app)
 - [Remnote](https://www.remnote.io/homepage)
