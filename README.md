@@ -100,3 +100,4 @@
 - [Mendeley](https://www.mendeley.com/)
 - [Zotero](https://www.zotero.org/)
 - [MarginNote](https://www.marginnote.com/)
+- [TopicSplit](https://github.com/andrwspt/topicsplit) — Free offline semantic text grouper. Splits pasted text into topic segments by meaning, not word count. Perfect for atomizing articles into atomic notes for Obsidian, Logseq, and Zettelkasten workflows. 100% client-side, no tracking.
