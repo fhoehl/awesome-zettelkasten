@@ -90,6 +90,7 @@
 
 - [notenote.link](https://github.com/Maxence-L/notenote.link). A [Jekyll](https://jekyllrb.com) digital garden template, optimized for integration with [Obsidian](https://obsidian.md).
 - [roam-to-git](https://github.com/MatthieuBizien/roam-to-git). Automatic RoamResearch backup.
+- [Second Brain Starter](https://github.com/secondbrainstarter/second-brain-starter). A free, bilingual (EN/DE) Obsidian starter vault with 3-folder inbox rule, daily-note and weekly-review templates — builds a working second brain in about 10 minutes. [Website](https://secondbrainstarter.github.io/) with live demo and blog.
 - [slipbox](https://github.com/lggruspe/slipbox). A static site generator for Zettelkasten notes.
 - [vizel](https://github.com/BasilPH/vizel). See the stats and connections of your Zettelkasten.
 - [zk-reindex-launchd](https://github.com/johntrandall/zk-reindex-launchd). macOS LaunchAgent that auto-reindexes [zk](https://github.com/zk-org/zk) notebooks on a schedule. Set-and-forget — keeps queries (CLI, LSP, MCP) current after edits made outside an LSP-aware editor.
