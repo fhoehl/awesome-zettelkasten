@@ -30,6 +30,7 @@
 - [Napkin](https://www.napkin.one)
 - [Neuron](https://neuron.zettel.page/)
 - [Notebag](https://notebag.app/)
+- [Nostos](https://github.com/Christian-Gennari/Nostos)
 - [nvALT](http://brettterpstra.com/projects/nvalt/)
 - [Obsidian](https://obsidian.md)
 - [QOwnNotes](https://www.qownnotes.org)
