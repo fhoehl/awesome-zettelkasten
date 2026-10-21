@@ -25,6 +25,7 @@
 - [Exegesis](https://exegesis.io)
 - [Foam](https://www.producthunt.com/posts/foam)
 - [IWE](https://github.com/iwe-org/iwe)
+- [Koru](https://github.com/koruworks/mono)
 - [Logseq](https://logseq.com)
 - [nb](https://github.com/xwmx/nb)
 - [Napkin](https://www.napkin.one)
