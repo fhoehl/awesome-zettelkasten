@@ -31,6 +31,7 @@
 - [Neuron](https://neuron.zettel.page/)
 - [Notebag](https://notebag.app/)
 - [Nostos](https://github.com/Christian-Gennari/Nostos)
+- [Noteriv](https://github.com/thejacedev/Noteriv)
 - [nvALT](http://brettterpstra.com/projects/nvalt/)
 - [Obsidian](https://obsidian.md)
 - [QOwnNotes](https://www.qownnotes.org)
