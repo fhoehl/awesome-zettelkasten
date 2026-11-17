@@ -16,6 +16,7 @@
 
 ### Apps
 
+- [3DMindNet](https://3dmindnet.com)
 - [Athens](https://github.com/athensresearch/athens)
 - [Amplenote](https://www.amplenote.com)
 - [Bear](https://bear.app)
